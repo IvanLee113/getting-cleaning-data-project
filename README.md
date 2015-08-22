@@ -1,5 +1,5 @@
 # getting-cleaning-data-project
-Course Module 3 Getting and Cleaning Data week 3
+Coursera Module 3 Getting and Cleaning Data week 3
 
 Lee Choon How
 
