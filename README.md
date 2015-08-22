@@ -1,7 +1,4 @@
-# getting-cleaning-data-project
-Coursera Module 3 Getting and Cleaning Data week 3
-
-Lee Choon How
+Author: Lee Choon How
 
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
